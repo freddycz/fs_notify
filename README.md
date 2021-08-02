@@ -41,3 +41,5 @@ exports['fs_notify']:ShowNotify('<i class="fas fa-info-circle">Hello world!</i>'
 TriggerClientEvent('fs_dependencies:ShowNotification', source, '<i class="fas fa-info-circle">Hello world!</i>', '#35889e', '#ffff', 1)
 ```
 
+
+MY DISCORD: https://discord.gg/GNHm3jS8Vt
